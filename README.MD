@@ -16,11 +16,11 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 1. Ключи из списка валидных оказались невалидными
-* 80b427f8-92cd-3aae-ba04-3927fbe17c6
-* 387eedc6-12e9-3b32-9881-63b6b5e85317
+ * 80b427f8-92cd-3aae-ba04-3927fbe17c6
+ * 387eedc6-12e9-3b32-9881-63b6b5e85317
 
 2. Ключи из списка невалидных оказались валидными
-* 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+ * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 ## Описание процесса тестирования
 1. Скачать OpenJDK11 в соответствии с инструкцией по установке OpenJDK11 по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
@@ -29,9 +29,8 @@
 4. Создать пустой Git-репозиторий
 5. Добавить в него файл [.gitignore](https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore) и файл с приложением KeyValidator
 6. Запустить в терминале приложение KeyValidator командой java KeyValidator <ключ>, где <ключ> - передаваемые для валидации ключи
-7. Последовательно проверить предоставленные для тестирования ключи валидации и зафиксировать результаты ОК - для валидных ключей, FAIL - для невалидных.
 
-## В качестве тестовых данных использовались данные [https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+**В качестве тестовых данных использовались данные [https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)**
 
 ## Ожидаемый результат:
 * Result for <ключ>: OK - для валидных ключей
@@ -55,7 +54,7 @@
 
 
 **Тестирование производилось в следующем окружении:**
- notebook LG-book 
- Windows 10, x64
- Java, Version 11.0.8   
+ notebook LG-book; 
+ Windows 10;
+ Java, Version 11.0.8; 
  Chrome, Version 84.0.4147.105
