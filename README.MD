@@ -19,8 +19,12 @@
  * 80b427f8-92cd-3aae-ba04-3927fbe17c6
  * 387eedc6-12e9-3b32-9881-63b6b5e85317
 
+Ссылка [https://github.com/AnastasiyaSergeichik/my_project_1/issues/1](https://github.com/AnastasiyaSergeichik/my_project_1/issues/1)
+
 2. Ключи из списка невалидных оказались валидными
  * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+
+Ссылка [https://github.com/AnastasiyaSergeichik/my_project_1/issues/2](https://github.com/AnastasiyaSergeichik/my_project_1/issues/2)
 
 ## Описание процесса тестирования
 1. Скачать OpenJDK11 в соответствии с инструкцией по установке OpenJDK11 по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
