@@ -30,7 +30,7 @@
 1. Скачать OpenJDK11 в соответствии с инструкцией по установке OpenJDK11 по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 2. Протестировать установку OpenJDK11 через терминал выполнив команду java -version
 3. Скачать приложение [KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-4. Создать пустой Git-репозиторий
+4. Создать локальный репозиторий
 5. Добавить в него файл [.gitignore](https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore) и файл с приложением KeyValidator
 6. Запустить в терминале приложение KeyValidator командой java KeyValidator <ключ>, где <ключ> - передаваемые для валидации ключи
 
